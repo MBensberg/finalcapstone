@@ -1,0 +1,40 @@
+Capstone Projects
+
+table of contents 
+
+introduction 
+
+installation instructions 
+
+how to use the program 
+
+introduction:
+
+for this capstone project we were task with reading and learning about NLP or natural language processing 
+as well as allowing us to work with spaCy and other functions when creating databases, 
+for this task we had to create a PDF document to which we would research and find different applications 
+for NLP, we were give three areas to research within, how emails are allocated, how essay grades are 
+given from various answers provided and finally how NLP is used to help Dr in their work, in diagnosis. 
+the secong part of this capstone task was to again create another PDF file, we were task with writing 
+a short 250 - 500 word paragrapha summerising how NLP has innovated technology, its acheivements and 
+how breif overveiw of how it many work for a company. 
+
+installation instructions: 
+
+if you want to view / contribute changes to work in this repository.
+Go to this repository on github. (you’ll find it at https://github.com/MBensber/finalcapstone)
+Click the “Fork” button at the top right.
+You’ll now have your own copy of that repository in your github account.
+Open a terminal/shell.
+Type $ git clone git@github.com:username/the_repo
+You’ll now have a local copy of your version of that repository.
+once you have done this youll be able to view selected files as well as edit them. 
+Change into that project directory (the_repo): $ cd the_repo
+Add a connection to the original owner’s repository. $ git remote add myfriend git://github.com/myfriend/the_repo
+To check this remote add set up: $ git remote -v
+
+how to use this program:
+
+to access both of these documents simple open the repositories in which the files are saved, this is 
+https://github.com/MBensberg/finalcapstone then click on either one of the NLP documents saved within the folder, 
+this will open them as a read doc. 
