@@ -1,0 +1,55 @@
+Capstone Projects
+
+table of contents 
+
+introduction 
+
+installation instructions 
+
+how to use the program 
+
+introduction: 
+
+for this program we were asked to create a program that uses defensive programming to help in debugging
+within various types of software, this type of programming is used by sogtware developers, in this task
+we were taught about the various types of errors we may incounter with in coding and how we could counter 
+act these bugs. we were to use "if" statements as well as elif and else. we were to be mindful of how certain 
+calculation would be processed throught the code and were reminded to be aware of the zerodivisionerror. 
+
+installation instructions: 
+
+if you want to view / contribute changes to work in this repository.
+Go to this repository on github. (you’ll find it at https://github.com/MBensber/finalcapstone)
+Click the “Fork” button at the top right.
+You’ll now have your own copy of that repository in your github account.
+Open a terminal/shell.
+Type $ git clone git@github.com:username/the_repo
+You’ll now have a local copy of your version of that repository.
+once you have done this youll be able to view selected files as well as edit them. 
+Change into that project directory (the_repo): $ cd the_repo
+Add a connection to the original owner’s repository. $ git remote add myfriend git://github.com/myfriend/the_repo
+To check this remote add set up: $ git remote -v
+
+how to use this program:
+
+this was a simple project that required the user to imput numbers and an operator to write and 
+calculate a calculation, and then save it to a file, making that file accessable to the current or next 
+user. 
+
+step one, is to choose either, to proform a calculation, to proform a calculation from the saved files
+or finally exit the program, (this is given as an option beecause the code is designed to loop)
+
+step two, if you select the option 1 you will then be asked to enter you first number, choose which operator you 
+would like for this calculation, then finally youll be asked to input your seond number. this will then 
+proform the calculation and show you the full calculation at the bottom of the screen, giving you 
+the same three option as before in step one, 
+if you choose option two you will be given instruction to input a certain short line of code 
+this will then open a file that contains all the previous calculation that have been entered. 
+a list of the previously enter calculation will appear at teh bottom of the screen as well as the the 
+same three options in step one. 
+finally if you choose step three you will be presented with a short statment thanking you for 
+using the program. 
+
+
+
+
