@@ -1,2 +1,0 @@
-# finalcapstone
-capstone projects
