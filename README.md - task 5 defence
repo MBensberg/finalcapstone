@@ -1,0 +1,53 @@
+Capstone Projects
+
+table of contents 
+
+introduction 
+
+installation instructions 
+
+how to use the program 
+
+introduction:
+
+this capstone project was a milestone of my time studying with hyperiondev, this task 
+was a consolidation of the knowledge i had gained so far with in the course and 
+how it could be used in a real word situation, this capstone project used various 
+data types as well as if-elif-else statements. 
+
+installation instructions: 
+
+if you want to view / contribute changes to work in this repository.
+Go to this repository on github. (you’ll find it at https://github.com/MBensber/finalcapstone)
+Click the “Fork” button at the top right.
+You’ll now have your own copy of that repository in your github account.
+Open a terminal/shell.
+Type $ git clone git@github.com:username/the_repo
+You’ll now have a local copy of your version of that repository.
+once you have done this youll be able to view selected files as well as edit them. 
+Change into that project directory (the_repo): $ cd the_repo
+Add a connection to the original owner’s repository. $ git remote add myfriend git://github.com/myfriend/the_repo
+To check this remote add set up: $ git remote -v
+
+how to use this program:
+
+this program is designed to calulate how much an individual will pay back on either an simple 
+interest investment or a bond investment. 
+
+step one, the user needs to choose which investment they wish to proceed with, 
+this is completed by simply typing in the text box either "investment or bond" 
+
+step two, the input for these equations are similar but use different language, 
+you will first be prompted to input either investment or house price, second your 
+will be prompted to input the interest rate you wish to pay in simple digits 
+third you will be asked to input either the number of years or duration of the loan in which you would like to pay 
+and finally for the investment string you will be asked to input if you require simple or compound interest, 
+for the bond string the calculation will proceed after its asks the duration of the loan, 
+
+step three, the program will work out the calculation for you and will output the answer at the 
+bottom of the page. 
+
+
+
+
+
